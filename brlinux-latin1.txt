@@ -1,0 +1,444 @@
+   #publisher BR-Linux.org RSS Feed
+
+   [bannerserveru-21223.gif]
+
+     Visite tambem: UnderLinux .  VivaOLinux .  Dicas-L .  NoticiasLinux .
+                   SoftwareLivre.org .  [mais] .  Curriculo .  Efetividade
+
+O que e Linux o Download Linux o Apostila Linux o Enviar noticia
+
+BR-Linux.org
+
+   Linux levado a serio desde 1996
+     __________________________________________________________________
+
+Fork do Debian esta em considerac,ao por descontentes com o systemd
+
+   Tags: kernel, distribuicoes
+
+   Enviado por Eder S. G. (Jordan) (eder.grigorioTHopenmailbox.org):
+   ""Quem somos nos?
+
+   Nos somos administradores Unix veteranos e estamos preocupados com o
+   que esta acontecendo com o sistema operacional livre Debian GNU/Linux a
+   ponto de considerar um fork do projeto. E por que fariamos isso?
+
+   Alguns sao desenvolvedores do projeto, outros sao administradores de
+   sistemas profissionais. Somos todos colegas interessados em interagir
+   com o Debian e distribuioes derivadas praticamente diariamente.
+
+   Nos nao queremos ser forc,ados a utilizar o software systemd em
+   substituic,ao ao tradicional software sysvinit porque o systemd trai a
+   filosofia UNIX.
+
+   Contemplamos adotar alternativas mais recentes ao sysvinit, mas nao
+   prejudicar os principios basicos do projeto de 'fazer uma coisa e
+   faze-la bem feita' com uma colec,ao complexa de dezenas de binarios
+   fortemente acoplados e registros de logs opacos."
+
+   Mais informac,oes em: [debianfork.org/...]" [referencia:
+   debianfork.org]
+
+   Enviado por Stauffen (ricardos.linuxTHgmail.com):
+   "Eu particularmente concordo com Ian Jackson porque Debian e muito mais
+   que Linux, e um OS multi-kernel, multiplataforma, multi-aplicac,ao
+   etc... e e por isso que o projeto nao pode ficar preso a um sistema de
+   inicializac,ao especifico. Por isso Ian Jackson propos isto e ja esta
+   aprovado ir pra votac,ao:
+
+   "Este GR procura preservar a liberdade de nossos usuarios agora para
+   selecionar um sistema de inicializac,ao de sua escolha e a liberdade do
+   projeto para selecionar um sistema de inicializac,ao diferente no
+   futuro. Ele vai evitar Debian tornando acidentalmente preso a um
+   sistema de inicializac,ao em particular (por exemplo, porque muito
+   software nao relacionado acabou dependendo de um sistema de
+   inicializac,ao especial, que a carga de esforc,o necessario para mudar
+   o sistema de inicializac,ao se torna grande demais). Uma serie de
+   sistemas de inicializac,ao existe, e e claro que ainda nao ha um amplo
+   consenso quanto ao que o melhor sistema de inicializac,ao pode
+   parecer."
+
+   Noticia originaria em [phoronix.com/...] e [debianfork.org/...]" []
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Usando o framework Laravel com Bootstrap
+
+   Tags:
+
+   Enviado por Jonathan Andre Schweder (jonathanschwederTHgmail.com):
+   "Este post tem o objetivo de mostrar de maneira facil e rapida como
+   utilizar o poder do artisan do laravel para gerac,ao de telas de
+   cadastros apenas com linha de comando e de quebra utilizar o Bootstrap
+   para criac,ao de paginas mais amigaveis." [referencia:
+   blog.butecopensource.com]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Rio: Install Fest de Linux + Steam sera no dia 13 de Dezembro
+
+   Tags: instalar, jogos
+
+   Enviado por Erik Chendo (qrcyenTHgmail.com):
+   "Amigos, farei uma festa da instalac,ao Linux, dia 13/12/2014 E, para
+   quem quiser, pretendo fazer no final instalac,ao do cliente steam ( e
+   de SteamOS ) - sim podera rolar uma mini lan house... - Local : R.
+   Sobragi, fundos da igreja luterana, na ilha do governador, RJ. Chame
+   seus amigos... [facebook.com/...] ou /12 [plus.google.com/...]"
+   [referencia: ]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Apostila: Nagios Aplicado
+
+   Tags:
+
+   Enviado por Marcio Jose Atanasio (marcioatanasioTHgmail.com):
+   "Apos muitos anos trabalhando com monitoramento de rede atraves do
+   Nagios, nos mais variados cenarios, venho contribuir com essa apostila
+   que trata de explicar como o Nagios funciona, como efetuar uma
+   implantac,ao e criar seus proprios plugins." [referencia:
+   marciojose.blogspot.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+3 programas para criar e editar legendas em videos no Linux
+
+   Tags:
+
+   Enviado por Ricardo Ferreira Costa (linuxdescomplicadoTHgmail.com):
+   "Programas gratuitos para Linux que trabalham com legendas estao
+   disponiveis, tanto para criar do zero quanto para editar; e ate
+   sincronizar uma ja existente. Diante disso, existem 3 opc,oes
+   interessantes para o sistema Linux que devem ser observadas."
+   [referencia: linuxdescomplicado.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Livro: Python para Desenvolvedores, um curso rapido e pratico sobre o assunto
+
+   Tags: desenvolvedores
+
+   Enviado por Stephanie Milate (smilateTHnovatec.com.br):
+   "A Novatec traz mais um titulo de Python repleto de exemplos para
+   desenvolvedores
+
+   As linguagens dinamicas, que no passado eram vistas apenas como
+   linguagens script, hoje conquistam cada vez mais espac,o no mercado,
+   chamando a atenc,ao de grandes fornecedores de tecnologia. Entre elas,
+   o Python se destaca como uma das mais populares e poderosas.
+
+   O Python inclui diversas estruturas de alto nivel (listas, dicionarios,
+   data/hora, complexos e outras) e uma vasta colec,ao de modulos prontos
+   para uso, alem de frameworks de terceiros que podem ser adicionados.
+   Tambem inclui recursos como geradores, introspecc,ao, persistencia,
+   metaclasses e unidades de teste.
+
+   O livro Python para Desenvolvedores, lanc,ado pela Novatec Editora,
+   descreve os principais recursos da linguagem Python, focado em sua
+   versao 3.3, com um texto direto e conciso, repleto de exemplos para
+   descrever desde os conceitos mais basicos ate recursos avanc,ados, como
+   a integrac,ao com outras linguagens.
+
+   O livro aborda conceitos basicos de linguagem, biblioteca-padrao,
+   geradores, programac,ao funcional, classes, testes automatizados,
+   armazenamento de dados, aplicac,oes web, processamento numerico,
+   interface grafica, computac,ao grafica, processamento distribuido,
+   plataformas portateis, empacotamento e distribuic,ao e integrac,ao com
+   aplicativos e outras linguagens." [referencia: novatec.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Apache CloudStack versao 4.4.1
+
+   Tags: apache, evento, desenvolvedores, comunidade
+
+   Enviado por Marco Sinhoreli (marco.sinhoreliTHshapeblue.com):
+   "Plataforma de software de computac,ao em nuvem em codigo aberto
+   oferece maior eficiencia e performance.
+
+   O projeto Apache CloudStack anunciou hoje a disponibilidade imediata do
+   Apache CloudStack v4.4.1, a versao mais recente da plataforma de
+   software de computac,ao em nuvem turnkey usada para a criac,ao de
+   ambientes de nuvens hibridas, privadas e publicas.
+
+   As nuvens do Apache CloudStack possibilitam transac,oes comerciais de
+   bilhoes de dolares por ano em suas nuvens, e sua maturidade e
+   estabilidade levaram a plataforma em codigo aberto a se tornar a
+   escolha de muitos provedores na configurac,ao de servic,os de
+   computac,ao em nuvem publica elastica on-demand, bem como de empresas e
+   os outras organizac,oes interessadas em criar uma nuvem privada ou
+   hibrida para uso de seus proprios funcionarios.
+
+   "Estamos muito satisfeitos em lanc,ar a versao 4.4.1 do Apache
+   CloudStack", afirmou Giles Sirett, membro do Comite de Gerenciamento de
+   Projetos do Apache CloudStack. "Esta ultima versao do CloudStack
+   reflete meses de trabalho duro da nossa comunidade de desenvolvedores e
+   traz ainda mais recursos para ajudar nossos fornecedores de servic,os e
+   usuarios empresariais a aprimorarem suas plataformas na nuvem. O Apache
+   CloudStack continua a crescer tanto em quantidade de implementac,oes
+   como no tamanho da comunidade de desenvolvimento, e e a plataforma
+   escolhida por milhares de organizac,oes que precisam criar ambientes
+   IaaS de forma rapida e segura com uma tecnologia comprovada e voltada
+   para a produc,ao de qualidade", completou Sirett.
+
+   Elogiado pelo Gartner Group, o CloudStack inclui uma interface de
+   usuario intuitiva e ricas APIs para o gerenciamento dos recursos de
+   computac,ao, redes, software e de infraestrutura de armazenamento.
+
+   O CloudStack 4.4.1 oferece dezenas de novos recursos e melhorias,
+   incluindo: >> Gerenciamento de armazenamento >> As camadas da nuvem
+   privada virtual (Virtual Private Cloud tiers) agora abrangem redes de
+   convidados de todas as zonas de disponibilidade >> Suporte para o
+   VMware Distributed Resource Scheduler >> Suporte aprimorado para zonas
+   de Hyper-V, VPC e migrac,ao de armazenamento
+
+   Uma visao completa de todas as novas melhorias podem ser encontradas
+   nas notas de lanc,amento do projeto, disponiveis em:
+   [docs.cloudstack.apache.org/...]
+
+   O CloudStack tem sido usado por milhares de organizac,oes em todo o
+   mundo e encontra-se em uso/produc,ao pela Alcatel-Lucent, Autodesk, BT
+   Cloud, China Telecom, DATACAENTER Services, DataPipe, Edmunds.com,
+   Exoscale, GreenQloud, Universidade de Hokkaido, IDC Frontier, Ikoula,
+   KDDI, KT/Korea Telecom, LeaseWeb, NTT, Orange, PCextreme, Schuberg
+   Philis, Shopzilla, Slovak Telekom, SunGard AS, Taiwan mobile, Tata,
+   Trader Media Group, TomTom, Universidade de Melbourne, Universidade de
+   Sao Paulo, Verizon, WebMD e Zynga, entre outros.
+
+   O CloudStack originou-se da Cloud.com, que foi adquirida pela Citrix em
+   2011. O CloudStack foi submetido ao Apache Incubator em abril de 2012 e
+   tornou-se um projeto Apache Software Foundation de nivel superior em
+   marc,o de 2013.
+
+   O CloudStack 4.4.1 ja esta disponivel para download gratuito em:
+   [cloudstack.apache.org/...] O software Apache CloudStack e liberado sob
+   a licenc,a Apache v2.0.
+
+   O Apache CloudStack e uma plataforma de software turnkey de
+   infraestrutura-como-servic,o (IaaS) madura e integrada, em codigo
+   aberto, que permite aos usuarios construir ambientes de nuvem publica e
+   privada ricas em recursos. Aclamado pelo Gartner Group como "um produto
+   solido", o CloudStack inclui uma interface de usuario intuitiva e APIs
+   ricas para gerenciamento dos recursos de computac,ao, redes, software e
+   infraestrutura de armazenamento. O CloudStack entrou para o Apache
+   Incubator em abril de 2012 e tornou-se um projeto Apache de nivel
+   superior em marc,o de 2013. Para downloads, documentac,ao e maneiras de
+   se envolver com o Apache CloudStack, visite [cloudstack.apache.org/...]
+   e [/...] twitter.com/CloudStack" [referencia: ]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Receita Federal passara a tributar servic,os de armazenamento no exterior
+
+   Tags:
+
+   Enviado por Andre Machado (andreferreiramachadoTHgmail.com):
+   "A crescente movimentac,ao do mercado de dados tem chamado nao so a
+   atenc,ao de empresas que procuram reduzir custos, mas tambem a do
+   Governo Federal. Segundo a resoluc,ao do Ato Declaratorio n-o 7,
+   publicada no Diario Oficial da Uniao na ultima sexta-feira (18), a
+   Receita Federal passara a tributar os contratos de servic,os de
+   armazenamento e processamento de dados com provedores no exterior.
+
+   A cobranc,a sera feita pelos impostos Cide-Royalties (Imposto de
+   Intervenc,ao no Dominio Economico destinado a financiar o Programa de
+   Estimulo `a Interac,ao Universidade-Empresa para o Apoio `a Inovac,ao),
+   PIS/Pasep-Importac,ao, Cofins-Importac,ao, assim como IOF (imposto
+   sobre operac,ao financeira), ISSQN (imposto sobre servic,os de qualquer
+   natureza) e IRPF (imposto sobre a renda retido na fonte), ou seja, a
+   taxa sera cobrada de pessoas fisicas e juridicas.
+
+   A nova decisao do governo muda o cenario tributario consideravelmente.
+   Enquanto servic,os de armazenamento de dados no exterior rendem uma
+   economia de 15% em relac,ao aos contratos nacionais, a nova resoluc,ao
+   deixara os centros de dados brasileiros 20% mais baratos apos os
+   tributos." [referencia: corporate.canaltech.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Webinar: Desenvolvimento Agil
+
+   Tags: evento
+
+   Enviado por Dextra (mktTHdextra.com.br):
+   "Desenvolvimento agil ainda e novidade pra muita gente. Como sair do
+   velho (e improdutivo) modelo de desenvolvimento em cascata? Como
+   praticar um metodo agil que realmente traga valor e fac,a sentido para
+   a equipe? Este webinar ira ajuda-lo a entender os metodos ageis e as
+   principais diferenc,as deles com o modelo de desenvolvimento
+   tradicional. Alem disso, ira orienta-lo em como fazer a migrac,ao para
+   um metodo agil de desenvolvimento, com dicas sinceras de quem ja passou
+   por isso!
+
+   Data: 6/nov horario: 11:30h." [referencia: dextra.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Palestra SINDPD-RJ: Tornando o LibreOffice cada vez melhor com as extensoes
+
+   Tags: office, evento
+
+   Enviado por Eliane Domingos de Sousa (contatoTHciclodepalestra.com.br):
+   "Segunda-feira, 27 de outubro de 2014 e dia de Ciclo de Palestra no
+   SINDPD-RJ. Eliane Domingos apresentara: Tornando o LibreOffice cada vez
+   melhor com as extensoes. ENTRADA FRANCA - Inscric,oes:
+   [doity.com.br/...]" [referencia: ciclodepalestra.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Palestra EDX: Estrategias de migrac,ao para LibreOffice
+
+   Tags: office, evento
+
+   Enviado por Eliane Domingos de Sousa (contatoTHciclodepalestra.com.br):
+   "Quarta-feira, 05 de novembro de 2014 `as 19 horas e dia de Ciclo de
+   Palestra EDX. Olivier Hallot apresentara: Estrategias de Migrac,ao para
+   LibreOffice. ENTRADA FRANCA - Inscric,ao: [doity.com.br/...]"
+   [referencia: ciclodepalestra.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Novo episodio do podcast Piratas da Internet: Virtualizac,ao parte 2
+
+   Tags:
+
+   Enviado por Fabio Rodriguez (fabio.rodriguezTHgmail.com):
+   "Lanc,amos mais um episodio do Podcast Piratas da Internet!
+
+   Nesta segunda parte, iremos abordar um pouco de cada tecnologia de
+   mercado como VMWare, Hyper-V, Xen, KVM, etc." [referencia:
+   piratasdainternet.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Mais um video do LinuxTips: SYSDIG
+
+   Tags: video
+
+   Enviado por Aletheia (aletheia.patriciaTHgmail.com):
+   ""Acabou de sair mais um video do LinuxTips e o assunto dessa semana
+   aborda a utilizac,ao da excelente ferramenta sysdig! Lembrando que o
+   video e em portugues e com uma abordagem leve sobre o tema. O Canal
+   disponibiliza um video por semana, bem interessante! ;)"
+
+   [youtube.com/...]" [referencia: ]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+HowTo Online - Treinamento de Servidores Linux pela metade do prec,o
+
+   Tags: evento, servidor
+
+   Enviado por Bruno Odon (admTHbrunoodon.com.br):
+   "Ate o fim deste mes de outubro, no HowTo Online, o treinamento
+   Servidores Linux esta saindo pela metade do prec,o normal. E uma
+   excelente oportunidade para dominar a implantac,ao de servic,os mais
+   requisitados no mercado, como Load Balance, File Server e Monitoramento
+   com o Nagios. Os interessados devem entrar em contato com
+   adm@brunoodon.com.br." [referencia: brunoodon.com.br]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+
+Curso gratuito e online de criac,ao de apps moveis
+
+   Tags: curso
+
+   Enviado por Cleuton Sampaio (cleuton.sampaioTHgmail.com):
+   "Aprenda a criar apps moveis multiplataforma em HTML 5 e Javascript!
+   Fac,a nosso curso gratuito e online, com exemplos, exercicios e forum
+   para tirar duvidas.
+
+   Veja como usar o PhoneGap e o jQuery Mobile. Aprenda a criar apps
+   responsivas e que consomem Web e RESTful services!" [referencia:
+   obomprogramador.com]
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   24/10/2014
+   <- Mais antigos
+     * Comentarios dos leitores
+     *
+     * Twitter e RSS
+       [twitter16-273183.jpg] @brlinuxblog
+       [twitter16-273183.jpg] @augustocc
+       [rss-icon-small.jpg] Feed RSS
+       Historico 2002-2014
+       Google
+       Digite os termos da sua pesquisa _________________________
+       ( ) Web (*) br-linux.org
+       Enviar formulario de pesquisa Pesquisar no BR-Linux
+     * BR-Linux apoia:
+
+
+     * Licenciamento Saiba mais sobre o BR-Linux. O conteudo textual
+       original desta pagina esta disponivel sob a licenc,a GNU FDL 1.2.
+       Veja os Termos de Uso para saber os detalhes sobre licenciamento,
+       politicas com relac,ao ao conteudo enviado pelos leitores
+       (incluindo comentarios), moderac,ao publica, privacidade e aspectos
+       legais.
+
+                          [gprofile_button-32.png]
+
+     *
+
+     *
+
+                             Anuncie no BR-Linux
+     *
+
+   [dltec2-260783.gif]
+                                      .
+     * Treinamento Zope Plone
+     * Visite sempre multiplos sites para formar sua opiniao, pois os
+       pontos de vista e os focos de cobertura podem variar bastante.
+       Conhec,a nossa lista de outros sites da comunidade!
+     __________________________________________________________________
+
+   BR-Linux.org
+          Linux(R) levado a serio desde 1996. Noticias, dicas e tutoriais
+          em bom portugues sobre Linux e Codigo Aberto. "A pagina sobre
+          software livre mais procurada no Brasil", segundo a Revista
+          Isto E.
+
+   Expediente
+          Sobre o BR-Linux
+          Enviar noticia ou release
+          Contato, Termos de uso
+          FAQ, RSS
+          Anunciar no BR-Linux
+
+   BR-Linux apoia
+          Efetividade, Floripa.net
+          sites da comunidade
+
+   Ajuda
+          Publicar seu texto
+          Noticias pre-2008
+          Noticias pre-2004
+          Tutoriais, HCL pre-2004
+
+   (c) Augusto Campos. Conteudo disponivel sob a licenc,a livre FDL.
+   Consulte os termos de uso.
+
+   Powered by Axe. Linux (R) e marca registrada de Linus Torvalds. Os
+   direitos autorais de todas as ilustrac,oes pertencem aos respectivos
+   autores, e elas sao reproduzidas na intenc,ao de atender ao disposto no
+   art. 46 da Lei 9.610 - se ainda assim alguma delas infringe direito
+   seu, entre em contato para que possamos remove-la imediatamente. O
+   conteudo textual original desta pagina esta disponivel sob a licenc,a
+   GNU FDL 1.2. Leia os Termos de Uso para saber mais detalhes - inclusive
+   sobre a politica em relac,ao aos comentarios dos leitores.

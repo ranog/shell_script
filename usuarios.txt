@@ -1,0 +1,7 @@
+login:nome completo:idade:sexo
+junior:Alfredo Vieira Júnior:12:M
+dani:Daniele Almeida Teles:19:F
+luciana:Luciana Silveira:22:F
+luigi:Luigi da Silva:28:M
+Natan:Natan Bichona:24:F
+Bichona:Michel Rodrigues:31:M
