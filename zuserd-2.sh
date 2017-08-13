@@ -46,7 +46,7 @@ do
 		lista)
 			#Lista dos logins (apaga a primeira linha)
 			temp=$(mktemp -t tmp.XXXXXXXXXX)
-			# exemplo do livro [temp=$(mktemp -t lixo)] esta dando erro. Na mainpage do mktemp o templeite básico é tmp.XXXXXXXXXX
+			# exemplo do livro [temp=$(mktemp -t lixo)] esta dando erro. Na mainpage do mktemp o template básico é tmp.XXXXXXXXXX
 			pega_campo 1 | sed 1d > "$temp"
 			dialog --title "Usuários" --textbox "$temp" 13 30
 			rm $temp
